@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+
+h1.posicionamento{
+    max-width: 40%;
+    height: 20%;
+    display: flex;
+    justify-content: center;    
+    color: whitesmoke;
+    font-family: 'Roboto Condensed', sans-serif;
+    text-align: center;
+}
+body{
+    background-image: linear-gradient(to right, rgb(25,25,112), 	rgb(95,158,160) );
+}
