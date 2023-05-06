@@ -10,5 +10,7 @@ h1.posicionamento{
     text-align: center;
 }
 body{
-    background-image: linear-gradient(to right, rgb(25,25,112), 	rgb(95,158,160) );
+    background-image: url(https://i.gifer.com/si9.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
