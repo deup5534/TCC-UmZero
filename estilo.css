@@ -1,0 +1,10 @@
+body{
+    background-image: linear-gradient(to right, #172556, #122C79);
+}
+.nav-link-active{
+    background-color: #274659;/*#0396A6  Sobre*/
+}
+.nav-item{
+    background-color: #0396A6;
+    border-radius: 30%;
+}
